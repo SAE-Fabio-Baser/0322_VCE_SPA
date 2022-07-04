@@ -1,0 +1,25 @@
+{
+  "name": "0322_VCE_SPA",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "parcel src/index.html"
+  },
+  "alias": {
+    "process": false
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@react-three/fiber": "^8.0.27",
+    "parcel": "^2.6.2",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "three": "^0.142.0"
+  },
+  "devDependencies": {
+    "prettier": "^2.7.1"
+  }
+}
